@@ -40,7 +40,6 @@ coverage/
 .nyc_output/
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -60,3 +59,7 @@ pgsql/
 build-output.txt
 *.tsbuildinfo
 fix.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
