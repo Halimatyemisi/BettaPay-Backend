@@ -12,8 +12,6 @@ shared/*/dist/
 services/*/dist/
 
 # Environment — never commit secrets
-.env
-.env.local
 .env.*.local
 !.env.example
 
@@ -61,3 +59,4 @@ build-output.txt
 *.tsbuildinfo
 fix.md.gitignore
 branch_structure.json
+config.bat
